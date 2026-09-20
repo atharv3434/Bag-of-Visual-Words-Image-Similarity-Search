@@ -1,0 +1,250 @@
+{
+  "categories": [
+    "stripes",
+    "dots",
+    "checkerboard",
+    "crosshatch"
+  ],
+  "images": [
+    {
+      "file": "dots_025.png",
+      "category": "dots"
+    },
+    {
+      "file": "checkerboard_035.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "stripes_002.png",
+      "category": "stripes"
+    },
+    {
+      "file": "dots_018.png",
+      "category": "dots"
+    },
+    {
+      "file": "stripes_014.png",
+      "category": "stripes"
+    },
+    {
+      "file": "stripes_001.png",
+      "category": "stripes"
+    },
+    {
+      "file": "dots_020.png",
+      "category": "dots"
+    },
+    {
+      "file": "checkerboard_040.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "crosshatch_053.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "stripes_006.png",
+      "category": "stripes"
+    },
+    {
+      "file": "crosshatch_046.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "stripes_000.png",
+      "category": "stripes"
+    },
+    {
+      "file": "checkerboard_041.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "checkerboard_033.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "dots_024.png",
+      "category": "dots"
+    },
+    {
+      "file": "checkerboard_032.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "checkerboard_043.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "crosshatch_048.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "checkerboard_031.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "checkerboard_039.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "checkerboard_037.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "dots_016.png",
+      "category": "dots"
+    },
+    {
+      "file": "checkerboard_044.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "checkerboard_036.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "dots_022.png",
+      "category": "dots"
+    },
+    {
+      "file": "dots_026.png",
+      "category": "dots"
+    },
+    {
+      "file": "checkerboard_038.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "dots_019.png",
+      "category": "dots"
+    },
+    {
+      "file": "crosshatch_059.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "crosshatch_051.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "crosshatch_045.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "stripes_003.png",
+      "category": "stripes"
+    },
+    {
+      "file": "stripes_005.png",
+      "category": "stripes"
+    },
+    {
+      "file": "crosshatch_049.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "stripes_013.png",
+      "category": "stripes"
+    },
+    {
+      "file": "crosshatch_047.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "crosshatch_056.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "dots_017.png",
+      "category": "dots"
+    },
+    {
+      "file": "checkerboard_042.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "crosshatch_057.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "dots_029.png",
+      "category": "dots"
+    },
+    {
+      "file": "dots_023.png",
+      "category": "dots"
+    },
+    {
+      "file": "crosshatch_052.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "crosshatch_054.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "dots_028.png",
+      "category": "dots"
+    },
+    {
+      "file": "stripes_009.png",
+      "category": "stripes"
+    },
+    {
+      "file": "stripes_011.png",
+      "category": "stripes"
+    },
+    {
+      "file": "dots_015.png",
+      "category": "dots"
+    },
+    {
+      "file": "stripes_004.png",
+      "category": "stripes"
+    },
+    {
+      "file": "crosshatch_058.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "dots_021.png",
+      "category": "dots"
+    },
+    {
+      "file": "stripes_012.png",
+      "category": "stripes"
+    },
+    {
+      "file": "stripes_008.png",
+      "category": "stripes"
+    },
+    {
+      "file": "checkerboard_034.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "stripes_007.png",
+      "category": "stripes"
+    },
+    {
+      "file": "crosshatch_055.png",
+      "category": "crosshatch"
+    },
+    {
+      "file": "stripes_010.png",
+      "category": "stripes"
+    },
+    {
+      "file": "checkerboard_030.png",
+      "category": "checkerboard"
+    },
+    {
+      "file": "dots_027.png",
+      "category": "dots"
+    },
+    {
+      "file": "crosshatch_050.png",
+      "category": "crosshatch"
+    }
+  ]
+}

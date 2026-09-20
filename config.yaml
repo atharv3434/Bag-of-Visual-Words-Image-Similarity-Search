@@ -1,0 +1,31 @@
+# Configuration for the Bag-of-Visual-Words (BoVW) image similarity search project.
+#
+# Implements the classic BoVW pipeline: Sivic & Zisserman, "Video Google:
+# A Text Retrieval Approach to Object Matching in Videos" (ICCV 2003), and
+# Csurka et al., "Visual Categorization with Bags of Keypoints" (ECCV
+# Workshop 2004).
+
+images_dir: data/images
+metadata_path: data/metadata.json
+index_path: models/bovw_index.joblib
+output_dir: output
+
+# ORB local feature detection
+orb_n_features: 300
+
+# Visual vocabulary (K-Means over pooled descriptors from all images)
+vocabulary_size: 60
+vocabulary_random_state: 42
+
+# Whether to apply TF-IDF weighting to the visual-word histograms (down-
+# weights visual words that appear in almost every image, up-weights ones
+# that are more distinctive — the same idea as TF-IDF for text documents)
+use_tfidf: true
+
+# Similarity search
+top_k: 5
+distance_metric: cosine
+
+# Evaluation
+eval_top_k: [1, 3, 5]
+n_example_queries: 4
