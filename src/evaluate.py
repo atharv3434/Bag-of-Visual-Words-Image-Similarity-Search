@@ -1,4 +1,5 @@
-"""Evaluate BoVW retrieval quality with leave-one-out precision@K.
+"""
+Evaluate BoVW retrieval quality with leave-one-out precision@K.
 
 Usage:
     python src/evaluate.py [--config config.yaml]
