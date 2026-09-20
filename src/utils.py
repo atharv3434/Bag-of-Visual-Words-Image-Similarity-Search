@@ -1,4 +1,6 @@
-"""Shared helpers for loading config and metadata."""
+"""
+Shared helpers for loading config and metadata.
+"""
 
 import json
 import yaml
