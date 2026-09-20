@@ -1,4 +1,5 @@
-"""Find the most similar images to a query image using its Bag-of-Visual-
+"""
+Find the most similar images to a query image using its Bag-of-Visual-
 Words histogram.
 
 Usage:
