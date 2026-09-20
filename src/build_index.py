@@ -1,4 +1,5 @@
-"""Build the full BoVW index: extract ORB descriptors for every image,
+"""
+Build the full BoVW index: extract ORB descriptors for every image,
 cluster them into a visual vocabulary, compute each image's (optionally
 TF-IDF-weighted) visual-word histogram, and save everything to disk.
 
