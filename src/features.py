@@ -1,4 +1,5 @@
-"""Local feature extraction with ORB (Oriented FAST and Rotated BRIEF).
+"""
+Local feature extraction with ORB (Oriented FAST and Rotated BRIEF).
 
 Unlike a global descriptor (a single vector summarizing the whole image),
 ORB finds many local keypoints — corners and other distinctive points —
