@@ -1,4 +1,5 @@
-"""Generate synthetic textured-pattern images for Bag-of-Visual-Words
+"""
+Generate synthetic textured-pattern images for Bag-of-Visual-Words
 similarity search practice.
 
 Unlike flat, solid-color shapes, these patterns (stripes, dots,
