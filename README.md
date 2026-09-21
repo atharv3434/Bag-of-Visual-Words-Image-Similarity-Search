@@ -1,7 +1,8 @@
 # Bag-of-Visual-Words Image Similarity Search
 
 A content-based image retrieval project implementing the classic
-**Bag-of-Visual-Words (BoVW)** pipeline:
+**Bag-of-Visual-Words (BoVW)** 
+pipeline:
 
 - Sivic & Zisserman, *"Video Google: A Text Retrieval Approach to Object
   Matching in Videos"* (ICCV 2003)
