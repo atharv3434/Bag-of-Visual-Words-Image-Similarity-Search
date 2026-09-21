@@ -1,4 +1,5 @@
-"""Build a visual vocabulary from pooled ORB descriptors (K-Means), and
+"""
+Build a visual vocabulary from pooled ORB descriptors (K-Means), and
 represent each image as a histogram over that vocabulary — the core of
 the Bag-of-Visual-Words (BoVW) pipeline.
 
