@@ -1,5 +1,5 @@
 # Configuration for the Bag-of-Visual-Words (BoVW) image similarity search project.
-#
+
 # Implements the classic BoVW pipeline: Sivic & Zisserman, "Video Google:
 # A Text Retrieval Approach to Object Matching in Videos" (ICCV 2003), and
 # Csurka et al., "Visual Categorization with Bags of Keypoints" (ECCV
