@@ -12,8 +12,7 @@ This project ships with pre-generated images already in place
 (data/images/, data/metadata.json), so you don't need to run this to try
 the project out. Run it again for a fresh random set.
 
-Usage:
-    python data/generate_data.py [--n-per-class 15] [--seed 42]
+Usage:python data/generate_data.py [--n-per-class 15] [--seed 42]
 """
 
 import argparse
